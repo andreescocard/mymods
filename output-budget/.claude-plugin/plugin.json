@@ -1,0 +1,1 @@
+{ "name": "output-budget", "version": "0.1.0", "description": "Keeps big outputs out of the context: refuses whole-file Reads of long files, caps unlimited Grep, trims huge MCP results", "author": { "name": "andreescocard" }, "license": "MIT" }

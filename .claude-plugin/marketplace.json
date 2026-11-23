@@ -1,7 +1,23 @@
 {
   "name": "mymods",
-  "owner": { "name": "andreescocard" },
+  "owner": {
+    "name": "andreescocard"
+  },
   "plugins": [
-    { "name": "context-bar", "source": "./context-bar", "description": "Status line with the active model (follows opusplan) and the context window fill" }
+    {
+      "name": "context-bar",
+      "source": "./context-bar",
+      "description": "Status line with the active model (follows opusplan) and the context window fill"
+    },
+    {
+      "name": "guards",
+      "source": "./guards",
+      "description": "Hook-enforced guards: never read secrets or data dumps, ask before git commit/push/merge/tag, ask before any MCP tool"
+    },
+    {
+      "name": "output-budget",
+      "source": "./output-budget",
+      "description": "Keeps big outputs out of the context: refuses whole-file Reads of long files, caps unlimited Grep, trims huge MCP results"
+    }
   ]
 }

@@ -1,1 +1,1 @@
-{ "name": "context-bar", "version": "0.2.0", "description": "Status line with the active model (follows opusplan) and the context window fill", "author": { "name": "andreescocard" }, "license": "MIT" }
+{ "name": "context-bar", "version": "0.3.0", "description": "Status line with the active model (follows opusplan), context fill, session cost and git branch; context warnings; spend ledger", "author": { "name": "andreescocard" }, "license": "MIT" }

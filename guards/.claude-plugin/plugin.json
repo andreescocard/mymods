@@ -1,0 +1,1 @@
+{ "name": "guards", "version": "0.1.0", "description": "Hook-enforced guards: never read secrets or data dumps, ask before git commit/push/merge/tag, ask before any MCP tool", "author": { "name": "andreescocard" }, "license": "MIT" }

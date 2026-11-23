@@ -1,0 +1,1 @@
+{ "name": "context-bar", "version": "0.2.0", "description": "Status line with the active model (follows opusplan) and the context window fill", "author": { "name": "andreescocard" }, "license": "MIT" }

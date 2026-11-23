@@ -1,0 +1,7 @@
+{
+  "name": "mymods",
+  "owner": { "name": "andreescocard" },
+  "plugins": [
+    { "name": "context-bar", "source": "./context-bar", "description": "Status line with the active model (follows opusplan) and the context window fill" }
+  ]
+}
